@@ -50,10 +50,10 @@ Every topic follows the same structure:
 | Topic | Status |
 |--------|:------:|
 | 01. IoC | ✅ |
-| 02. Dependency Injection | ⏳ |
-| 03. Spring Boot Starters | ⬜ |
-| 04. Auto Configuration | ⬜ |
-| 05. Spring Initializr | ⬜ |
+| 02. Dependency Injection | ✅ |
+| 03. Spring Boot Starters | ✅ |
+| 04. Auto Configuration | ✅ |
+| 05. Spring Initializr | ✅ |
 
 ---
 
